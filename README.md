@@ -1,2 +1,4 @@
-# landing-pages-iScreamVibesEntertainment.com
-i Scream Vibes Entertainment - Recording Label Home Page
+<script>
+    // Immediate JavaScript fallback redirect
+    window.location.href = "https://iscreamjoshua.bandcamp.com";
+</script>
